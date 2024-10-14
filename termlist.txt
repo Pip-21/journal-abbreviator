@@ -1,0 +1,115 @@
+ACS Appl Mater Interfaces	ACS Appl. Mater. Interfaces
+ACS Catal	ACS Catal.
+ACS Cent Sci	ACS Cent. Sci.
+ACS Energy Lett	ACS Energy Lett.
+ACS Measurement Science Au	ACS Meas. Sci. Au
+Acc Chem Res	Acc. Chem. Res.
+Acta Crystallogr A	Acta Crystallogr. A
+Acta Crystallogr B Struct Sci Cryst Eng Mater	Acta Crystallogr. B
+Acta Crystallogr C Struct Chem	Acta Crystallogr. C
+Advanced Science	Adv. Sci.
+Anal Chem	Anal. Chem.
+Angewandte Chemie	Angew. Chem.
+Angewandte Chemie - International Edition	Angew. Chem. Int. Ed.
+Angewandte Chemie International Edition	Angew. Chem. Int. Ed.
+Angewandte Chemie International Edition in English	Angew. Chem. Int. Ed.
+Annu Rev Phys Chem	Annu. Rev. Phys. Chem.
+Appl Catal A Gen	Appl. Catal. A Gen.
+Appl Catal B	Appl. Catal., B
+Appl Organomet Chem	Appl. Organomet. Chem.
+Appl Phys Lett	Appl. Phys. Lett.
+Beilstein Journal of Organic Chemistry	Beilstein J. Org. Chem.
+Bulletin des Soci\u00E9t\u00E9s Chimiques Belges	Bull. Soc. Chim. Belg.
+Catal Sci Technol	Catal. Sci. Technol.
+Chem Asian J	Chem. Asian J.
+Chem Catalysis	Chem. Catal.
+Chem Phys Lett	Chem. Phys. Lett.
+Chem Rev	Chem. Rev.
+Chem Sci	Chem. Sci.
+Chem Soc Rev	Chem. Soc. Rev.
+Chemical Communications	Chem. Commun.
+Chemistry Education Research and Practice	Chem. Educ. Res. Pract.
+Chemistry \u2013 A European Journal	Chem. Eur. J.
+Chemistry of Materials	Chem. Mater.
+ChemistrySelect	ChemistrySelect
+Comments on Inorganic Chemistry	Comments Inorg. Chem.
+Comptes Rendus Chimie	C. R. Chim.
+Coord Chem Rev	Coord. Chem. Rev.
+Curr Opin Electrochem	Curr. Opin. Electrochem.
+Current Opinion in Electrochemistry	Curr. Opin. Electrochem.
+Dalton Transactions	Dalton Trans.
+Discuss Faraday Soc	Discuss. Faraday Soc.
+Dokl Akad Nauk SSSR	Dokl. Akad. Nauk SSSR
+Encyclopedia of Physical Science and Technology	Encycl. Phys. Sci. Technol.
+Energy Environ Sci	Energy Environ. Sci.
+Energy Res Soc Sci	Energy Res. Soc. Sci.
+Energy Sci Eng	Energy. Sci. Eng.
+Environ Sci Technol	Environ. Sci. Technol.
+Eur J Inorg Chem	Eur. J. Inorg. Chem.
+European J Org Chem	Eur. J. Org. Chem.
+Front Chem	Front. Chem.
+Helv Chim Acta	Helv. Chim. Acta
+Inorg Chem	Inorg. Chem.
+Inorg Chem Front	Inorg. Chem. Front.
+Inorganic Syntheses	Inorg. Synth.
+Inorganica Chim Acta	Inorg. Chim. Acta
+Int J Chem Kinet	Int. J. Chem. Kinet.
+Int J Mol Sci	Int. J. Mol. Sci.
+Isr J Chem	Isr. J. Chem.
+J Am Chem Soc	J. Am. Chem. Soc.
+J Appl Crystallogr	J. Appl. Crystallogr.
+J Chem Educ	J. Chem. Educ.
+J Chem Eng Data	J. Chem. Eng. Data
+J Chem Phys	J. Chem. Phys.
+J Chem Soc Chem Commun	J. Chem. Soc., Chem. Commun.
+J Clean Prod	J. Clean Prod.
+J Comput Chem	J. Comput. Chem.
+J Coord Chem	J. Coord. Chem.
+J Electroanal Chem Interfacial Electrochem	J. Electroanal. Chem.
+J Mater Chem	J. Mater. Chem.
+J Org Chem	J. Org. Chem.
+J Organomet Chem	J. Organomet. Chem.
+J Phys Chem	J. Phys. Chem.
+J Phys Chem Lett	J. Phys. Chem. Lett.
+J Polym Sci A Polym Chem	J. Polym. Sci. Part A: Polym. Chem.
+J Polym Sci B Polym Phys	J. Polym. Sci. Part B: Polym. Phys.
+J Stat Softw	J. Stat. Softw.
+Journal of Chemical Physics	J. Chem. Phys.
+Journal of Molecular Catalysis	J. Mol. Catal.
+Journal of Organic Chemistry	J. Org. Chem.
+Journal of Photochemistry and Photobiology C: Photochemistry Reviews	J. Photochem. Photobiol., C
+Journal of Physical Chemistry B	J. Phys. Chem. B
+Journal of the Chemical Society (Resumed)	J. Chem. Soc.
+Liebigs Ann Chem	Liebigs Ann. Chem.
+Mini Rev Org Chem	Mini-Rev. Org. Chem.
+Mol Phys	Mol. Phys.
+Nat Chem	Nat. Chem.
+Nat Commun	Nat. Commun.
+Nat Mater	Nat. Mater.
+Nat Photonics	Nat. Photonics
+Nat Prod Rep	Nat. Prod. Rep.
+Nat Rev Chem	Nat. Rev. Chem.
+New Journal of Chemistry	New J. Chem.
+Nouv J Chim	Nouv. J. Chim.
+Org Lett	Org. Lett.
+Org Process Res Dev	Org. Process Res. Dev.
+Organic Chemistry Frontiers	Org. Chem. Front.
+PLoS Med	PLoS Med.
+Photochem Photobiol	Photochem. Photobiol.
+Photochemical & Photobiological Sciences	Photochem. Photobiol. Sci.
+Photochemical and Photobiological Sciences	Photochem. Photobiol. Sci.
+Physical Chemistry Chemical Physics	Phys. Chem. Chem. Phys.
+Phys Rev A  (Coll Park)	Phys. Rev. A
+Physical Review	Phys. Rev.
+Proceedings of the National Academy of Sciences	Proc. Natl. Acad. Sci. U.S.A.
+Pure and Applied Chemistry	Pure Appl. Chem.
+Science (1979)	Science
+Small Methods	Small Methods
+Solar Energy Materials and Solar Cells	Sol. Energy Mater. Sol. Cells
+Sustain Energy Fuels	Sustain. Energy Fuels
+Synthesis (Stuttg)	Synthesis
+Tetrahedron Lett	Tetrahedron Lett.
+TrAC - Trends in Analytical Chemistry	Trends Anal. Chem.
+Water Res	Water Res.
+Z Kristallogr Cryst Mater	Z. Kristallogr. Cryst. Mater.
+Zeitschrift f\u00FCr Physikalische Chemie	Z. Phys. Chem.
